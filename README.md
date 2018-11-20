@@ -1,0 +1,1 @@
+# Get-VM-IP-address-using-Parallels-API
